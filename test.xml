@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>1</members>
+        <members>2</members>
+        <members>3</members>
+        <name>numeros</name>
+    </types>
+    <types>
+        <members>a</members>
+        <members>b</members>
+        <members>c</members>
+        <name>vogais</name>
+    </types>
+    <version>48.0</version>
+</Package>
